@@ -1,0 +1,131 @@
+Ventas del mes 2025-05
+Fecha | Local | Codigo | Descripcion | Precio | Cantidad | Importe
+----------------------------------------------------------------------
+2025-05-15 ART003  Galletitas de avena           LOC03 | LOC03 | ART003  Galletitas de avena           LOC03 | Galletitas de avena           LOC03 | 38.78 | 538976270 | 20902239263.94
+2025-05-09 ART008  Yogur natural                 LOC03 | LOC03 | ART008  Yogur natural                 LOC03 | Yogur natural                 LOC03 | 42.28 | 538976270 | 22788656208.94
+2025-05-05 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976272 | 24540329177.50
+2025-05-24 ART007  Jugo de naranja               LOC03 | LOC03 | ART007  Jugo de naranja               LOC03 | Jugo de naranja               LOC03 | 35.90 | 538976275 | 19349249094.91
+2025-05-23 ART008  Yogur natural                 LOC03 | LOC03 | ART008  Yogur natural                 LOC03 | Yogur natural                 LOC03 | 42.28 | 538976274 | 22788656378.06
+2025-05-23 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976264 | 22788655955.25
+2025-05-12 ART002  Mermelada de frutilla         LOC04 | LOC04 | ART002  Mermelada de frutilla         LOC04 | Mermelada de frutilla         LOC04 | 60.03 | 538976262 | 32355484521.19
+2025-05-16 ART010  Agua mineral                  LOC03 | LOC03 | ART010  Agua mineral                  LOC03 | Agua mineral                  LOC03 | 25.02 | 538976262 | 13482860950.59
+2025-05-20 ART008  Yogur natural                 LOC01 | LOC01 | ART008  Yogur natural                 LOC01 | Yogur natural                 LOC01 | 42.28 | 538976264 | 22788655955.25
+2025-05-26 ART002  Mermelada de frutilla         LOC02 | LOC02 | ART002  Mermelada de frutilla         LOC02 | Mermelada de frutilla         LOC02 | 60.03 | 538976275 | 32355485301.60
+2025-05-21 ART009  Te verde                      LOC02 | LOC02 | ART009  Te verde                      LOC02 | Te verde                      LOC02 | 40.05 | 538976266 | 21585999042.09
+2025-05-23 ART010  Agua mineral                  LOC01 | LOC01 | ART010  Agua mineral                  LOC01 | Agua mineral                  LOC01 | 25.02 | 538976265 | 13482861025.64
+2025-05-24 ART005  Pan integral                  LOC03 | LOC03 | ART005  Pan integral                  LOC03 | Pan integral                  LOC03 | 40.03 | 538976264 | 21575959361.25
+2025-05-23 ART007  Jugo de naranja               LOC01 | LOC01 | ART007  Jugo de naranja               LOC01 | Jugo de naranja               LOC01 | 35.90 | 538976288 | 19349249561.61
+2025-05-01 ART009  Te verde                      LOC04 | LOC04 | ART009  Te verde                      LOC04 | Te verde                      LOC04 | 40.05 | 538976266 | 21585999042.09
+2025-05-25 ART009  Te verde                      LOC05 | LOC05 | ART009  Te verde                      LOC05 | Te verde                      LOC05 | 40.05 | 538976264 | 21585998961.99
+2025-05-19 ART008  Yogur natural                 LOC02 | LOC02 | ART008  Yogur natural                 LOC02 | Yogur natural                 LOC02 | 42.28 | 538976271 | 22788656251.22
+2025-05-14 ART010  Agua mineral                  LOC03 | LOC03 | ART010  Agua mineral                  LOC03 | Agua mineral                  LOC03 | 25.02 | 538976272 | 13482861200.75
+2025-05-17 ART002  Mermelada de frutilla         LOC01 | LOC01 | ART002  Mermelada de frutilla         LOC01 | Mermelada de frutilla         LOC01 | 60.03 | 538976264 | 32355484641.25
+2025-05-22 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976257 | 24540328494.53
+2025-05-20 ART004  Leche deslactosada            LOC05 | LOC05 | ART004  Leche deslactosada            LOC05 | Leche deslactosada            LOC05 | 52.30 | 538976261 | 28188458039.09
+2025-05-10 ART009  Te verde                      LOC01 | LOC01 | ART009  Te verde                      LOC01 | Te verde                      LOC01 | 40.05 | 538976264 | 21585998961.99
+2025-05-16 ART001  Cafe molido                   LOC02 | LOC02 | ART001  Cafe molido                   LOC02 | Cafe molido                   LOC02 | 45.53 | 538976260 | 24540328631.13
+2025-05-01 ART008  Yogur natural                 LOC03 | LOC03 | ART008  Yogur natural                 LOC03 | Yogur natural                 LOC03 | 42.28 | 538976265 | 22788655997.53
+2025-05-27 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976259 | 22788655743.84
+2025-05-07 ART002  Mermelada de frutilla         LOC01 | LOC01 | ART002  Mermelada de frutilla         LOC01 | Mermelada de frutilla         LOC01 | 60.03 | 538976273 | 32355485181.53
+2025-05-04 ART002  Mermelada de frutilla         LOC03 | LOC03 | ART002  Mermelada de frutilla         LOC03 | Mermelada de frutilla         LOC03 | 60.03 | 538976264 | 32355484641.25
+2025-05-16 ART007  Jugo de naranja               LOC04 | LOC04 | ART007  Jugo de naranja               LOC04 | Jugo de naranja               LOC04 | 35.90 | 538976270 | 19349248915.41
+2025-05-21 ART002  Mermelada de frutilla         LOC02 | LOC02 | ART002  Mermelada de frutilla         LOC02 | Mermelada de frutilla         LOC02 | 60.03 | 538976268 | 32355484881.38
+2025-05-19 ART006  Cereal multigrano             LOC05 | LOC05 | ART006  Cereal multigrano             LOC05 | Cereal multigrano             LOC05 | 55.10 | 538976264 | 29697591323.99
+2025-05-04 ART006  Cereal multigrano             LOC02 | LOC02 | ART006  Cereal multigrano             LOC02 | Cereal multigrano             LOC02 | 55.10 | 538976266 | 29697591434.19
+2025-05-22 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976261 | 22788655828.41
+2025-05-20 ART005  Pan integral                  LOC02 | LOC02 | ART005  Pan integral                  LOC02 | Pan integral                  LOC02 | 40.03 | 538976257 | 21575959081.03
+2025-05-15 ART009  Te verde                      LOC02 | LOC02 | ART009  Te verde                      LOC02 | Te verde                      LOC02 | 40.05 | 538976272 | 21585999282.39
+2025-05-22 ART008  Yogur natural                 LOC01 | LOC01 | ART008  Yogur natural                 LOC01 | Yogur natural                 LOC01 | 42.28 | 538976272 | 22788656293.50
+2025-05-07 ART006  Cereal multigrano             LOC01 | LOC01 | ART006  Cereal multigrano             LOC01 | Cereal multigrano             LOC01 | 55.10 | 538976260 | 29697591103.59
+2025-05-05 ART004  Leche deslactosada            LOC01 | LOC01 | ART004  Leche deslactosada            LOC01 | Leche deslactosada            LOC01 | 52.30 | 538976266 | 28188458300.59
+2025-05-12 ART010  Agua mineral                  LOC03 | LOC03 | ART010  Agua mineral                  LOC03 | Agua mineral                  LOC03 | 25.02 | 538976268 | 13482861100.69
+2025-05-08 ART008  Yogur natural                 LOC02 | LOC02 | ART008  Yogur natural                 LOC02 | Yogur natural                 LOC02 | 42.28 | 538976266 | 22788656039.81
+2025-05-15 ART009  Te verde                      LOC01 | LOC01 | ART009  Te verde                      LOC01 | Te verde                      LOC01 | 40.05 | 538976261 | 21585998841.84
+2025-05-22 ART002  Mermelada de frutilla         LOC03 | LOC03 | ART002  Mermelada de frutilla         LOC03 | Mermelada de frutilla         LOC03 | 60.03 | 538976273 | 32355485181.53
+2025-05-18 ART002  Mermelada de frutilla         LOC02 | LOC02 | ART002  Mermelada de frutilla         LOC02 | Mermelada de frutilla         LOC02 | 60.03 | 538976272 | 32355485121.50
+2025-05-25 ART003  Galletitas de avena           LOC02 | LOC02 | ART003  Galletitas de avena           LOC02 | Galletitas de avena           LOC02 | 38.78 | 538976258 | 20902238798.56
+2025-05-25 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976259 | 24540328585.59
+2025-05-13 ART005  Pan integral                  LOC04 | LOC04 | ART005  Pan integral                  LOC04 | Pan integral                  LOC04 | 40.03 | 538976260 | 21575959201.13
+2025-05-21 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976288 | 22788656970.00
+2025-05-03 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976266 | 22788656039.81
+2025-05-22 ART007  Jugo de naranja               LOC04 | LOC04 | ART007  Jugo de naranja               LOC04 | Jugo de naranja               LOC04 | 35.90 | 538976268 | 19349248843.61
+2025-05-06 ART009  Te verde                      LOC01 | LOC01 | ART009  Te verde                      LOC01 | Te verde                      LOC01 | 40.05 | 538976271 | 21585999242.34
+2025-05-08 ART005  Pan integral                  LOC05 | LOC05 | ART005  Pan integral                  LOC05 | Pan integral                  LOC05 | 40.03 | 538976266 | 21575959441.31
+2025-05-11 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976258 | 24540328540.06
+2025-05-21 ART007  Jugo de naranja               LOC05 | LOC05 | ART007  Jugo de naranja               LOC05 | Jugo de naranja               LOC05 | 35.90 | 538976272 | 19349248987.21
+2025-05-06 ART004  Leche deslactosada            LOC05 | LOC05 | ART004  Leche deslactosada            LOC05 | Leche deslactosada            LOC05 | 52.30 | 538976259 | 28188457934.49
+2025-05-14 ART010  Agua mineral                  LOC02 | LOC02 | ART010  Agua mineral                  LOC02 | Agua mineral                  LOC02 | 25.02 | 538976266 | 13482861050.66
+2025-05-12 ART006  Cereal multigrano             LOC02 | LOC02 | ART006  Cereal multigrano             LOC02 | Cereal multigrano             LOC02 | 55.10 | 538976270 | 29697591654.59
+2025-05-25 ART005  Pan integral                  LOC04 | LOC04 | ART005  Pan integral                  LOC04 | Pan integral                  LOC04 | 40.03 | 538976276 | 21575959841.63
+2025-05-07 ART001  Cafe molido                   LOC02 | LOC02 | ART001  Cafe molido                   LOC02 | Cafe molido                   LOC02 | 45.53 | 538976260 | 24540328631.13
+2025-05-11 ART008  Yogur natural                 LOC02 | LOC02 | ART008  Yogur natural                 LOC02 | Yogur natural                 LOC02 | 42.28 | 538976266 | 22788656039.81
+2025-05-24 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976272 | 24540329177.50
+2025-05-27 ART010  Agua mineral                  LOC03 | LOC03 | ART010  Agua mineral                  LOC03 | Agua mineral                  LOC03 | 25.02 | 538976276 | 13482861300.81
+2025-05-17 ART010  Agua mineral                  LOC03 | LOC03 | ART010  Agua mineral                  LOC03 | Agua mineral                  LOC03 | 25.02 | 538976261 | 13482860925.58
+2025-05-11 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976268 | 22788656124.38
+2025-05-13 ART008  Yogur natural                 LOC02 | LOC02 | ART008  Yogur natural                 LOC02 | Yogur natural                 LOC02 | 42.28 | 538976265 | 22788655997.53
+2025-05-15 ART005  Pan integral                  LOC01 | LOC01 | ART005  Pan integral                  LOC01 | Pan integral                  LOC01 | 40.03 | 538976274 | 21575959761.56
+2025-05-28 ART001  Cafe molido                   LOC02 | LOC02 | ART001  Cafe molido                   LOC02 | Cafe molido                   LOC02 | 45.53 | 538976261 | 24540328676.66
+2025-05-18 ART010  Agua mineral                  LOC02 | LOC02 | ART010  Agua mineral                  LOC02 | Agua mineral                  LOC02 | 25.02 | 538976266 | 13482861050.66
+2025-05-10 ART009  Te verde                      LOC05 | LOC05 | ART009  Te verde                      LOC05 | Te verde                      LOC05 | 40.05 | 538976274 | 21585999362.49
+2025-05-27 ART010  Agua mineral                  LOC05 | LOC05 | ART010  Agua mineral                  LOC05 | Agua mineral                  LOC05 | 25.02 | 538976273 | 13482861225.77
+2025-05-20 ART001  Cafe molido                   LOC02 | LOC02 | ART001  Cafe molido                   LOC02 | Cafe molido                   LOC02 | 45.53 | 538976275 | 24540329314.10
+2025-05-16 ART006  Cereal multigrano             LOC04 | LOC04 | ART006  Cereal multigrano             LOC04 | Cereal multigrano             LOC04 | 55.10 | 538976258 | 29697590993.39
+2025-05-06 ART001  Cafe molido                   LOC05 | LOC05 | ART001  Cafe molido                   LOC05 | Cafe molido                   LOC05 | 45.53 | 538976260 | 24540328631.13
+2025-05-28 ART008  Yogur natural                 LOC03 | LOC03 | ART008  Yogur natural                 LOC03 | Yogur natural                 LOC03 | 42.28 | 538976260 | 22788655786.13
+2025-05-16 ART001  Cafe molido                   LOC01 | LOC01 | ART001  Cafe molido                   LOC01 | Cafe molido                   LOC01 | 45.53 | 538976275 | 24540329314.10
+2025-05-14 ART008  Yogur natural                 LOC02 | LOC02 | ART008  Yogur natural                 LOC02 | Yogur natural                 LOC02 | 42.28 | 538976272 | 22788656293.50
+2025-05-28 ART005  Pan integral                  LOC05 | LOC05 | ART005  Pan integral                  LOC05 | Pan integral                  LOC05 | 40.03 | 538976276 | 21575959841.63
+2025-05-28 ART010  Agua mineral                  LOC04 | LOC04 | ART010  Agua mineral                  LOC04 | Agua mineral                  LOC04 | 25.02 | 538976268 | 13482861100.69
+2025-05-02 ART003  Galletitas de avena           LOC01 | LOC01 | ART003  Galletitas de avena           LOC01 | Galletitas de avena           LOC01 | 38.78 | 538976258 | 20902238798.56
+2025-05-27 ART009  Te verde                      LOC03 | LOC03 | ART009  Te verde                      LOC03 | Te verde                      LOC03 | 40.05 | 538976261 | 21585998841.84
+2025-05-15 ART005  Pan integral                  LOC05 | LOC05 | ART005  Pan integral                  LOC05 | Pan integral                  LOC05 | 40.03 | 538976266 | 21575959441.31
+2025-05-25 ART002  Mermelada de frutilla         LOC04 | LOC04 | ART002  Mermelada de frutilla         LOC04 | Mermelada de frutilla         LOC04 | 60.03 | 538976276 | 32355485361.63
+2025-05-07 ART010  Agua mineral                  LOC05 | LOC05 | ART010  Agua mineral                  LOC05 | Agua mineral                  LOC05 | 25.02 | 538976272 | 13482861200.75
+2025-05-02 ART007  Jugo de naranja               LOC05 | LOC05 | ART007  Jugo de naranja               LOC05 | Jugo de naranja               LOC05 | 35.90 | 538976258 | 19349248484.61
+2025-05-25 ART009  Te verde                      LOC02 | LOC02 | ART009  Te verde                      LOC02 | Te verde                      LOC02 | 40.05 | 538976274 | 21585999362.49
+2025-05-10 ART005  Pan integral                  LOC04 | LOC04 | ART005  Pan integral                  LOC04 | Pan integral                  LOC04 | 40.03 | 538976273 | 21575959721.53
+2025-05-26 ART007  Jugo de naranja               LOC05 | LOC05 | ART007  Jugo de naranja               LOC05 | Jugo de naranja               LOC05 | 35.90 | 538976264 | 19349248700.01
+2025-05-18 ART006  Cereal multigrano             LOC05 | LOC05 | ART006  Cereal multigrano             LOC05 | Cereal multigrano             LOC05 | 55.10 | 538976266 | 29697591434.19
+2025-05-25 ART004  Leche deslactosada            LOC03 | LOC03 | ART004  Leche deslactosada            LOC03 | Leche deslactosada            LOC03 | 52.30 | 538976266 | 28188458300.59
+2025-05-07 ART003  Galletitas de avena           LOC04 | LOC04 | ART003  Galletitas de avena           LOC04 | Galletitas de avena           LOC04 | 38.78 | 538976261 | 20902238914.91
+2025-05-08 ART010  Agua mineral                  LOC04 | LOC04 | ART010  Agua mineral                  LOC04 | Agua mineral                  LOC04 | 25.02 | 538976257 | 13482860825.52
+2025-05-08 ART002  Mermelada de frutilla         LOC04 | LOC04 | ART002  Mermelada de frutilla         LOC04 | Mermelada de frutilla         LOC04 | 60.03 | 538976264 | 32355484641.25
+2025-05-07 ART002  Mermelada de frutilla         LOC05 | LOC05 | ART002  Mermelada de frutilla         LOC05 | Mermelada de frutilla         LOC05 | 60.03 | 538976273 | 32355485181.53
+2025-05-08 ART010  Agua mineral                  LOC05 | LOC05 | ART010  Agua mineral                  LOC05 | Agua mineral                  LOC05 | 25.02 | 538976266 | 13482861050.66
+2025-05-13 ART006  Cereal multigrano             LOC05 | LOC05 | ART006  Cereal multigrano             LOC05 | Cereal multigrano             LOC05 | 55.10 | 538976268 | 29697591544.39
+2025-05-20 ART005  Pan integral                  LOC01 | LOC01 | ART005  Pan integral                  LOC01 | Pan integral                  LOC01 | 40.03 | 538976268 | 21575959521.38
+2025-05-06 ART009  Te verde                      LOC05 | LOC05 | ART009  Te verde                      LOC05 | Te verde                      LOC05 | 40.05 | 538976272 | 21585999282.39
+2025-05-27 ART003  Galletitas de avena           LOC03 | LOC03 | ART003  Galletitas de avena           LOC03 | Galletitas de avena           LOC03 | 38.78 | 538976265 | 20902239070.03
+2025-05-21 ART002  Mermelada de frutilla         LOC01 | LOC01 | ART002  Mermelada de frutilla         LOC01 | Mermelada de frutilla         LOC01 | 60.03 | 538976271 | 32355485061.47
+2025-05-11 ART009  Te verde                      LOC05 | LOC05 | ART009  Te verde                      LOC05 | Te verde                      LOC05 | 40.05 | 538976265 | 21585999002.04
+2025-05-18 ART006  Cereal multigrano             LOC05 | LOC05 | ART006  Cereal multigrano             LOC05 | Cereal multigrano             LOC05 | 55.10 | 538976257 | 29697590938.29
+2025-05-14 ART005  Pan integral                  LOC04 | LOC04 | ART005  Pan integral                  LOC04 | Pan integral                  LOC04 | 40.03 | 538976268 | 21575959521.38
+2025-05-02 ART006  Cereal multigrano             LOC03 | LOC03 | ART006  Cereal multigrano             LOC03 | Cereal multigrano             LOC03 | 55.10 | 538976288 | 29697592646.39
+2025-05-02 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976258 | 22788655701.56
+2025-05-04 ART005  Pan integral                  LOC01 | LOC01 | ART005  Pan integral                  LOC01 | Pan integral                  LOC01 | 40.03 | 538976271 | 21575959641.47
+2025-05-25 ART005  Pan integral                  LOC03 | LOC03 | ART005  Pan integral                  LOC03 | Pan integral                  LOC03 | 40.03 | 538976275 | 21575959801.60
+2025-05-08 ART009  Te verde                      LOC02 | LOC02 | ART009  Te verde                      LOC02 | Te verde                      LOC02 | 40.05 | 538976260 | 21585998801.79
+2025-05-03 ART003  Galletitas de avena           LOC02 | LOC02 | ART003  Galletitas de avena           LOC02 | Galletitas de avena           LOC02 | 38.78 | 538976288 | 20902239962.00
+2025-05-07 ART008  Yogur natural                 LOC04 | LOC04 | ART008  Yogur natural                 LOC04 | Yogur natural                 LOC04 | 42.28 | 538976271 | 22788656251.22
+2025-05-27 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976271 | 24540329131.97
+2025-05-12 ART001  Cafe molido                   LOC04 | LOC04 | ART001  Cafe molido                   LOC04 | Cafe molido                   LOC04 | 45.53 | 538976266 | 24540328904.31
+2025-05-23 ART003  Galletitas de avena           LOC01 | LOC01 | ART003  Galletitas de avena           LOC01 | Galletitas de avena           LOC01 | 38.78 | 538976270 | 20902239263.94
+2025-05-28 ART002  Mermelada de frutilla         LOC01 | LOC01 | ART002  Mermelada de frutilla         LOC01 | Mermelada de frutilla         LOC01 | 60.03 | 538976273 | 32355485181.53
+2025-05-27 ART003  Galletitas de avena           LOC04 | LOC04 | ART003  Galletitas de avena           LOC04 | Galletitas de avena           LOC04 | 38.78 | 538976266 | 20902239108.81
+2025-05-10 ART008  Yogur natural                 LOC03 | LOC03 | ART008  Yogur natural                 LOC03 | Yogur natural                 LOC03 | 42.28 | 538976259 | 22788655743.84
+2025-05-19 ART007  Jugo de naranja               LOC04 | LOC04 | ART007  Jugo de naranja               LOC04 | Jugo de naranja               LOC04 | 35.90 | 538976266 | 19349248771.81
+2025-05-04 ART001  Cafe molido                   LOC01 | LOC01 | ART001  Cafe molido                   LOC01 | Cafe molido                   LOC01 | 45.53 | 538976266 | 24540328904.31
+2025-05-13 ART003  Galletitas de avena           LOC02 | LOC02 | ART003  Galletitas de avena           LOC02 | Galletitas de avena           LOC02 | 38.78 | 538976268 | 20902239186.38
+2025-05-21 ART001  Cafe molido                   LOC04 | LOC04 | ART001  Cafe molido                   LOC04 | Cafe molido                   LOC04 | 45.53 | 538976266 | 24540328904.31
+2025-05-27 ART001  Cafe molido                   LOC03 | LOC03 | ART001  Cafe molido                   LOC03 | Cafe molido                   LOC03 | 45.53 | 538976261 | 24540328676.66
+2025-05-16 ART009  Te verde                      LOC04 | LOC04 | ART009  Te verde                      LOC04 | Te verde                      LOC04 | 40.05 | 538976274 | 21585999362.49
+2025-05-10 ART010  Agua mineral                  LOC01 | LOC01 | ART010  Agua mineral                  LOC01 | Agua mineral                  LOC01 | 25.02 | 538976275 | 13482861275.80
+2025-05-18 ART005  Pan integral                  LOC02 | LOC02 | ART005  Pan integral                  LOC02 | Pan integral                  LOC02 | 40.03 | 538976265 | 21575959401.28
+2025-05-01 ART002  Mermelada de frutilla         LOC02 | LOC02 | ART002  Mermelada de frutilla         LOC02 | Mermelada de frutilla         LOC02 | 60.03 | 538976274 | 32355485241.56
+2025-05-01 ART007  Jugo de naranja               LOC05 | LOC05 | ART007  Jugo de naranja               LOC05 | Jugo de naranja               LOC05 | 35.90 | 538976262 | 19349248628.21
+2025-05-19 ART006  Cereal multigrano             LOC04 | LOC04 | ART006  Cereal multigrano             LOC04 | Cereal multigrano             LOC04 | 55.10 | 538976272 | 29697591764.79
+2025-05-27 ART005  Pan integral                  LOC05 | LOC05 | ART005  Pan integral                  LOC05 | Pan integral                  LOC05 | 40.03 | 538976260 | 21575959201.13
+2025-05-13 ART002  Mermelada de frutilla         LOC02 | LOC02 | ART002  Mermelada de frutilla         LOC02 | Mermelada de frutilla         LOC02 | 60.03 | 538976261 | 32355484461.16
+2025-05-23 ART003  Galletitas de avena           LOC02 | LOC02 | ART003  Galletitas de avena           LOC02 | Galletitas de avena           LOC02 | 38.78 | 538976258 | 20902238798.56
+2025-05-27 ART008  Yogur natural                 LOC01 | LOC01 | ART008  Yogur natural                 LOC01 | Yogur natural                 LOC01 | 42.28 | 538976266 | 22788656039.81
